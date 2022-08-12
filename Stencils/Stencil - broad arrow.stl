@@ -1,0 +1,366 @@
+solid Stencil - broad arrow
+facet normal 0.0 0.0 -1.0
+  outer loop
+    vertex -3.0 35.0 0.0
+    vertex -7.5 0.0 0.0
+    vertex -16.0 9.999999999999998 0.0
+  endloop
+endfacet
+facet normal 0.0 0.0 -1.0
+  outer loop
+    vertex 15.999999999999998 9.999999999999998 0.0
+    vertex 7.5 0.0 0.0
+    vertex 3.0 35.0 0.0
+  endloop
+endfacet
+facet normal 0.0 0.0 -1.0
+  outer loop
+    vertex -44.999999999999986 65.00000000000003 0.0
+    vertex -30.0 9.999999999999998 0.0
+    vertex -44.999999999999986 -15.0 0.0
+  endloop
+endfacet
+facet normal 0.0 0.0 -1.0
+  outer loop
+    vertex -30.0 9.999999999999998 0.0
+    vertex -44.999999999999986 65.00000000000003 0.0
+    vertex 0.0 50.0 0.0
+  endloop
+endfacet
+facet normal 0.0 0.0 -1.0
+  outer loop
+    vertex 0.0 50.0 0.0
+    vertex -44.999999999999986 65.00000000000003 0.0
+    vertex 44.99999999999999 65.00000000000003 0.0
+  endloop
+endfacet
+facet normal 0.0 0.0 -1.0
+  outer loop
+    vertex 0.0 50.0 0.0
+    vertex 44.99999999999999 65.00000000000003 0.0
+    vertex 30.0 9.999999999999998 0.0
+  endloop
+endfacet
+facet normal 0.0 0.0 -1.0
+  outer loop
+    vertex -44.999999999999986 -15.0 0.0
+    vertex -7.5 0.0 0.0
+    vertex 44.99999999999999 -15.0 0.0
+  endloop
+endfacet
+facet normal 0.0 0.0 -1.0
+  outer loop
+    vertex -7.5 0.0 0.0
+    vertex -44.999999999999986 -15.0 0.0
+    vertex -30.0 9.999999999999998 0.0
+  endloop
+endfacet
+facet normal 0.0 0.0 -1.0
+  outer loop
+    vertex -7.5 0.0 0.0
+    vertex -30.0 9.999999999999998 0.0
+    vertex -16.0 9.999999999999998 0.0
+  endloop
+endfacet
+facet normal 0.0 0.0 -1.0
+  outer loop
+    vertex 44.99999999999999 -15.0 0.0
+    vertex -7.5 0.0 0.0
+    vertex 7.5 0.0 0.0
+  endloop
+endfacet
+facet normal 0.0 0.0 -1.0
+  outer loop
+    vertex 44.99999999999999 -15.0 0.0
+    vertex 7.5 0.0 0.0
+    vertex 15.999999999999998 9.999999999999998 0.0
+  endloop
+endfacet
+facet normal 0.0 0.0 -1.0
+  outer loop
+    vertex 44.99999999999999 -15.0 0.0
+    vertex 15.999999999999998 9.999999999999998 0.0
+    vertex 30.0 9.999999999999998 0.0
+  endloop
+endfacet
+facet normal 0.0 0.0 -1.0
+  outer loop
+    vertex 44.99999999999999 -15.0 0.0
+    vertex 30.0 9.999999999999998 0.0
+    vertex 44.99999999999999 65.00000000000003 0.0
+  endloop
+endfacet
+facet normal -0.0 -0.0 1.0
+  outer loop
+    vertex -3.0 35.0 0.6
+    vertex -16.0 9.999999999999998 0.6
+    vertex -7.5 0.0 0.6
+  endloop
+endfacet
+facet normal -0.0 -0.0 1.0
+  outer loop
+    vertex -44.999999999999986 -15.0 0.6
+    vertex -30.0 9.999999999999998 0.6
+    vertex -44.999999999999986 65.00000000000003 0.6
+  endloop
+endfacet
+facet normal -0.0 -0.0 1.0
+  outer loop
+    vertex -30.0 9.999999999999998 0.6
+    vertex -44.999999999999986 -15.0 0.6
+    vertex -7.5 0.0 0.6
+  endloop
+endfacet
+facet normal -0.0 -0.0 1.0
+  outer loop
+    vertex -7.5 0.0 0.6
+    vertex -44.999999999999986 -15.0 0.6
+    vertex 44.99999999999999 -15.0 0.6
+  endloop
+endfacet
+facet normal -0.0 -0.0 1.0
+  outer loop
+    vertex -30.0 9.999999999999998 0.6
+    vertex -7.5 0.0 0.6
+    vertex -16.0 9.999999999999998 0.6
+  endloop
+endfacet
+facet normal -0.0 -0.0 1.0
+  outer loop
+    vertex -7.5 0.0 0.6
+    vertex 44.99999999999999 -15.0 0.6
+    vertex 7.5 0.0 0.6
+  endloop
+endfacet
+facet normal -0.0 -0.0 1.0
+  outer loop
+    vertex 7.5 0.0 0.6
+    vertex 44.99999999999999 -15.0 0.6
+    vertex 15.999999999999998 9.999999999999998 0.6
+  endloop
+endfacet
+facet normal -0.0 -0.0 1.0
+  outer loop
+    vertex 15.999999999999998 9.999999999999998 0.6
+    vertex 44.99999999999999 -15.0 0.6
+    vertex 30.0 9.999999999999998 0.6
+  endloop
+endfacet
+facet normal -0.0 -0.0 1.0
+  outer loop
+    vertex -44.999999999999986 65.00000000000003 0.6
+    vertex 0.0 50.0 0.6
+    vertex 44.99999999999999 65.00000000000003 0.6
+  endloop
+endfacet
+facet normal -0.0 -0.0 1.0
+  outer loop
+    vertex 0.0 50.0 0.6
+    vertex -44.999999999999986 65.00000000000003 0.6
+    vertex -30.0 9.999999999999998 0.6
+  endloop
+endfacet
+facet normal -0.0 -0.0 1.0
+  outer loop
+    vertex 44.99999999999999 65.00000000000003 0.6
+    vertex 0.0 50.0 0.6
+    vertex 30.0 9.999999999999998 0.6
+  endloop
+endfacet
+facet normal -0.0 -0.0 1.0
+  outer loop
+    vertex 44.99999999999999 65.00000000000003 0.6
+    vertex 30.0 9.999999999999998 0.6
+    vertex 44.99999999999999 -15.0 0.6
+  endloop
+endfacet
+facet normal -0.0 -0.0 1.0
+  outer loop
+    vertex 15.999999999999998 9.999999999999998 0.6
+    vertex 3.0 35.0 0.6
+    vertex 7.5 0.0 0.6
+  endloop
+endfacet
+facet normal -1.0 0.0 0.0
+  outer loop
+    vertex -44.999999999999986 65.00000000000003 0.6
+    vertex -44.999999999999986 -15.0 0.0
+    vertex -44.999999999999986 -15.0 0.6
+  endloop
+endfacet
+facet normal -1.0 0.0 0.0
+  outer loop
+    vertex -44.999999999999986 -15.0 0.0
+    vertex -44.999999999999986 65.00000000000003 0.6
+    vertex -44.999999999999986 65.00000000000003 0.0
+  endloop
+endfacet
+facet normal 0.0 1.0 0.0
+  outer loop
+    vertex -44.999999999999986 65.00000000000003 0.6
+    vertex 44.99999999999999 65.00000000000003 0.0
+    vertex -44.999999999999986 65.00000000000003 0.0
+  endloop
+endfacet
+facet normal 0.0 1.0 0.0
+  outer loop
+    vertex 44.99999999999999 65.00000000000003 0.0
+    vertex -44.999999999999986 65.00000000000003 0.6
+    vertex 44.99999999999999 65.00000000000003 0.6
+  endloop
+endfacet
+facet normal 1.0 0.0 0.0
+  outer loop
+    vertex 44.99999999999999 65.00000000000003 0.0
+    vertex 44.99999999999999 -15.0 0.6
+    vertex 44.99999999999999 -15.0 0.0
+  endloop
+endfacet
+facet normal 1.0 0.0 0.0
+  outer loop
+    vertex 44.99999999999999 -15.0 0.6
+    vertex 44.99999999999999 65.00000000000003 0.0
+    vertex 44.99999999999999 65.00000000000003 0.6
+  endloop
+endfacet
+facet normal -0.0 -1.0 -0.0
+  outer loop
+    vertex 44.99999999999999 -15.0 0.6
+    vertex -44.999999999999986 -15.0 0.0
+    vertex 44.99999999999999 -15.0 0.0
+  endloop
+endfacet
+facet normal -0.0 -1.0 -0.0
+  outer loop
+    vertex -44.999999999999986 -15.0 0.0
+    vertex 44.99999999999999 -15.0 0.6
+    vertex -44.999999999999986 -15.0 0.6
+  endloop
+endfacet
+facet normal 0.9918357753074261 -0.12752174253952622 0.0
+  outer loop
+    vertex -3.0 35.0 0.0
+    vertex -7.5 0.0 0.6
+    vertex -7.5 0.0 0.0
+  endloop
+endfacet
+facet normal 0.9918357753074261 -0.12752174253952622 0.0
+  outer loop
+    vertex -7.5 0.0 0.6
+    vertex -3.0 35.0 0.0
+    vertex -3.0 35.0 0.6
+  endloop
+endfacet
+facet normal -0.0 1.0 0.0
+  outer loop
+    vertex -7.5 0.0 0.6
+    vertex 7.5 0.0 0.0
+    vertex -7.5 0.0 0.0
+  endloop
+endfacet
+facet normal -0.0 1.0 0.0
+  outer loop
+    vertex 7.5 0.0 0.0
+    vertex -7.5 0.0 0.6
+    vertex 7.5 0.0 0.6
+  endloop
+endfacet
+facet normal -0.9918357753074261 -0.12752174253952622 -0.0
+  outer loop
+    vertex 3.0 35.0 0.6
+    vertex 7.5 0.0 0.0
+    vertex 7.5 0.0 0.6
+  endloop
+endfacet
+facet normal -0.9918357753074261 -0.12752174253952622 -0.0
+  outer loop
+    vertex 7.5 0.0 0.0
+    vertex 3.0 35.0 0.6
+    vertex 3.0 35.0 0.0
+  endloop
+endfacet
+facet normal 0.8872168012345952 0.4613527366419895 0.0
+  outer loop
+    vertex 3.0 35.0 0.0
+    vertex 15.999999999999998 9.999999999999998 0.6
+    vertex 15.999999999999998 9.999999999999998 0.0
+  endloop
+endfacet
+facet normal 0.8872168012345952 0.4613527366419895 0.0
+  outer loop
+    vertex 15.999999999999998 9.999999999999998 0.6
+    vertex 3.0 35.0 0.0
+    vertex 3.0 35.0 0.6
+  endloop
+endfacet
+facet normal -0.0 1.0 0.0
+  outer loop
+    vertex 15.999999999999998 9.999999999999998 0.6
+    vertex 30.0 9.999999999999998 0.0
+    vertex 15.999999999999998 9.999999999999998 0.0
+  endloop
+endfacet
+facet normal -0.0 1.0 0.0
+  outer loop
+    vertex 30.0 9.999999999999998 0.0
+    vertex 15.999999999999998 9.999999999999998 0.6
+    vertex 30.0 9.999999999999998 0.6
+  endloop
+endfacet
+facet normal -0.8 -0.6000000000000001 -0.0
+  outer loop
+    vertex 0.0 50.0 0.6
+    vertex 30.0 9.999999999999998 0.0
+    vertex 30.0 9.999999999999998 0.6
+  endloop
+endfacet
+facet normal -0.8 -0.6000000000000001 -0.0
+  outer loop
+    vertex 30.0 9.999999999999998 0.0
+    vertex 0.0 50.0 0.6
+    vertex 0.0 50.0 0.0
+  endloop
+endfacet
+facet normal 0.8 -0.6000000000000001 0.0
+  outer loop
+    vertex 0.0 50.0 0.0
+    vertex -30.0 9.999999999999998 0.6
+    vertex -30.0 9.999999999999998 0.0
+  endloop
+endfacet
+facet normal 0.8 -0.6000000000000001 0.0
+  outer loop
+    vertex -30.0 9.999999999999998 0.6
+    vertex 0.0 50.0 0.0
+    vertex 0.0 50.0 0.6
+  endloop
+endfacet
+facet normal -0.0 1.0 0.0
+  outer loop
+    vertex -30.0 9.999999999999998 0.6
+    vertex -16.0 9.999999999999998 0.0
+    vertex -30.0 9.999999999999998 0.0
+  endloop
+endfacet
+facet normal -0.0 1.0 0.0
+  outer loop
+    vertex -16.0 9.999999999999998 0.0
+    vertex -30.0 9.999999999999998 0.6
+    vertex -16.0 9.999999999999998 0.6
+  endloop
+endfacet
+facet normal -0.8872168012345952 0.4613527366419896 0.0
+  outer loop
+    vertex -3.0 35.0 0.6
+    vertex -16.0 9.999999999999998 0.0
+    vertex -16.0 9.999999999999998 0.6
+  endloop
+endfacet
+facet normal -0.8872168012345952 0.4613527366419896 0.0
+  outer loop
+    vertex -16.0 9.999999999999998 0.0
+    vertex -3.0 35.0 0.6
+    vertex -3.0 35.0 0.0
+  endloop
+endfacet
+endsolid Stencil - broad arrow
