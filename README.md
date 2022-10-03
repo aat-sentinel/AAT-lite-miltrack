@@ -19,3 +19,5 @@ There are no advantages over a standard sentinel tracker - mainly disadvantages:
 - Changing channel / rx access requires removal of upper dome (simply lifts off)
 - Case fitment is not optimised - a little trimming may be required
 
+Printing:
+Print parts as light as you can - especially the top dome and cyclindrical parts. 10% should be OK. As this is a heavy unit, this puts additional pressure on the pan servo. The tilt servo can take more weight than the standard Sentinel as it has lower gearing + bearing supports.
